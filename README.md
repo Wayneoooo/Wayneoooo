@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Wayne
 
-<!--
-**Wayneoooo/Wayneoooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science student at IU International University of Applied Sciences (graduating 2027), based in Essen, Germany. I'm interested in security, data and IT projects.
 
-Here are some ideas to get you started:
+- Currently writing my bachelor's thesis on the security of ADS-B, the protocol aircraft use to broadcast their position
+- Electives: Big Data & Cloud Technologies, Business Intelligence
+- Languages: English and Swahili (native), German (B1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [SignMeUp](https://github.com/Wayneoooo/signmeup) | Volunteer scheduling app with role-based access and email notifications | React, Node.js/Express, PostgreSQL, Prisma, JWT |
+| [In-Time](https://github.com/Wayneoooo/in-time) | Task journal that helps developers pick up where they left off after an interruption | React, Vite, localStorage |
+
+### Tools I work with
+
+SQL · PostgreSQL · JavaScript · React · Node.js · Python · Java · Git
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/wayneomollo) · wayneomollo@gmail.com
